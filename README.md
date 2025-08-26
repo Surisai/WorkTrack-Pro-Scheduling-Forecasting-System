@@ -61,6 +61,13 @@ It’s designed for managers and employees to have **real-time, transparent acce
   - Staffing trends
 
 ---
+## Class diagram & Example of Sequan diagram
+![Alt text](images/se.png)
+
+---
+![Alt text](images/class.png)
+
+
 ## 🔄 Workflow
 
 ```mermaid
@@ -73,3 +80,4 @@ flowchart LR
     E --> C
     C --> B
     B --> A
+
