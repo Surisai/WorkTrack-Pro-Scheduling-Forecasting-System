@@ -61,12 +61,6 @@ It’s designed for managers and employees to have **real-time, transparent acce
   - Staffing trends
 
 ---
-## UML (class Diagram)
-![image](https://github.com/user-attachments/assets/39913074-bee1-4e45-9747-83a6598f7b40)
-
-### Sequan Diagram (AddSchedule)
-![image](https://github.com/user-attachments/assets/e1f7f11d-11ec-41c8-9a81-b8a4a25209b9)
-
 ## 🔄 Workflow
 
 ```mermaid
