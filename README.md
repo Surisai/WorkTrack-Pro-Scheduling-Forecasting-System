@@ -62,10 +62,10 @@ It’s designed for managers and employees to have **real-time, transparent acce
 
 ---
 ## Class diagram & Example of Sequan diagram
-![Alt text](images/se.png)
+![Alt text](image/se.png)
 
 ---
-![Alt text](images/class.png)
+![Alt text](image/class.png)
 
 
 ## 🔄 Workflow
